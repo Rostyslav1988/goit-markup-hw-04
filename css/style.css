@@ -13,6 +13,13 @@
     --back-ground: #C4C4C4;
     --fill: #AFB1B8;
 }
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    list-style-type: none;
+}
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
