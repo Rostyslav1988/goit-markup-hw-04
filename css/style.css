@@ -663,7 +663,7 @@ a {
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.03em;
-    color: --;
+    color: var(--color-second-text);
     padding-bottom: 20px;
 }
 .products p, h3 {
