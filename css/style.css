@@ -622,12 +622,15 @@ a {
     cursor: pointer;
     padding: 6px 22px;
 }
+.producta-padding {
+    padding: 20px 24px;
+    border: 1px solid #EEEEEE;
+    border-top: none;
+}
     .products {
         display: flex;
-
-        padding-bottom: 94px;
         flex-wrap: wrap;
-        padding-bottom: 0;
+
         margin: 0;
         padding: 0;
         margin-top: 50px;
@@ -648,11 +651,7 @@ a {
 
     text-align: center;
 }
-.padding-left-rigt {
-    padding-left: 24px;
-    padding-right: 24px;
-    
-}
+
 .box-shadow3 {
     margin-top: 30px;
 }
@@ -672,19 +671,18 @@ a {
     line-height: 30px;
     letter-spacing: 0.03em;
     color: var(--color-second-text);
-    padding-bottom: 20px;
+
+    margin-top: 4px;
+
 }
-.products p, h3 {
-    border: 1px solid #EEEEEE;
-    border-top: none;
-}
+
 .products h3 {
 font-weight: bold;
 font-size: 18px;
 line-height: 36px;
 letter-spacing: 0.06em;
 color: var(--color-text);
-padding-top: 20px;
+
 border-bottom: none;
 }
 
