@@ -17,7 +17,10 @@ body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
 
+
     margin: 0 auto;
+
+
 }
 h1,
 h2,
@@ -548,6 +551,7 @@ a {
     color: var(--color-second-text);
     margin-left: 50px;
     font-style: normal;
+
 }
 .tel-link:hover,
 .tel-link:focus {
@@ -632,13 +636,17 @@ a {
     .box-shadow {
         margin-right: 30px;
     }
+    .top-menu {
 
-.top-menu {
+        justify-content: center;    
+    
+    
+    }
+.top-menu2 {
 
     justify-content: center;    
 
     text-align: center;
-
 }
 .padding-left-rigt {
     padding-left: 24px;
@@ -1244,3 +1252,6 @@ padding-top: 94px;
 .margin-fot-social {
     margin-left: 70px;
 }
+
+
+
