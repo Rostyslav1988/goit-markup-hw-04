@@ -114,10 +114,19 @@ ul {
 
     border-radius: 4px;    
 
+<<<<<<< HEAD
 }
 .icon-section2 {
     align-items: center;
     height: 120px;
+=======
+
+
+}
+.icon-section2 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
     background: var(--background-white);
     display: flex;
     justify-content: center;
@@ -126,6 +135,12 @@ ul {
     padding-top: 25px;
     
 }
+<<<<<<< HEAD
+=======
+.contacts a:hover {
+    fill: var(--focus-color);
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 
 .social-section {
     display: flex;
@@ -173,10 +188,18 @@ ul {
 .mail-link:hover,
 .mail-link:focus {
     color: var(--focus-color);
+<<<<<<< HEAD
+=======
+
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 }
 .mail-link:hover,
 .mail-link:focus {
     fill: var(--focus-color);
+<<<<<<< HEAD
+=======
+
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 }
 
 .tel-link {
@@ -407,7 +430,13 @@ transition: 250ms;
     background: var(--focus-color);
 
 }
+<<<<<<< HEAD
 
+=======
+.welcom-links {
+    
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 .img {
     width: 370px;
     height: 294px;
@@ -546,8 +575,25 @@ a {
 .navigation-link:focus {
     color: var(--focus-color);
 }
+<<<<<<< HEAD
 
 
+=======
+.mail-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: var(--color-second-text);
+    font-style: normal;
+}
+.mail-link:hover,
+.mail-link:focus {
+    color: var(--focus-color);
+
+
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 .tel-link {
     font-weight: 500;
     font-size: 14px;
@@ -729,12 +775,49 @@ border-radius: 4px;
     padding-bottom: 60px;
 }
 
+<<<<<<< HEAD
+=======
+.icon-svg {
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.contacts {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.mail-link:hover,
+.mail-link:focus {
+    color: var(--focus-color);
+
+}
+
+.mail-link:hover,
+.mail-link:focus {
+    fill: var(--focus-color);
+
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 
 .tel-link:hover,
 .tel-link:focus {
     color: var(--focus-color);
     text-decoration: none;
 
+<<<<<<< HEAD
+=======
+}
+.contacts a:hover {
+    fill: var(--focus-color);
+    transition: 250ms;
+}
+.foter-social {
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 }
 
 .social--section {
@@ -859,8 +942,14 @@ transition: 0.5s;
 
 .bord-clents {
     fill: var(--back-ground);
+
+<<<<<<< HEAD
+=======
 }
 
+
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 .lo-go-01 {
     display: flex;
     justify-content: center;
@@ -902,6 +991,13 @@ transition: 0.5s;
 .icon-sec-red {
     padding-top: 25px; 
 }
+<<<<<<< HEAD
+=======
+.contacts a:hover {
+    fill: var(--focus-color);
+
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 
 
 .b-radius {
@@ -932,10 +1028,25 @@ transition: 0.5s;
     letter-spacing: 0.02em;
     color: var(--color-second-text);
     font-style: normal;
+<<<<<<< HEAD
     padding-bottom: 20px;
     padding-top: 20px;
 }
 
+=======
+}
+.mail-link:hover,
+.mail-link:focus {
+    color: var(--focus-color);
+    text-decoration: none;
+}
+
+.mail-link:hover,
+.mail-link:focus {
+    fill: var(--focus-color);
+    text-decoration: none;
+}
+>>>>>>> d5c381feac87d710c2a4bac50cd6653406f0cf2c
 .tel-link {
 display: flex;
 justify-content: center;
